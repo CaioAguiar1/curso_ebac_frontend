@@ -1,1 +1,1 @@
-﻿# Exercício usando o Git
+﻿# Aulas erros, exercios, projetos
